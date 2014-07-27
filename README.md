@@ -1,10 +1,8 @@
-Merlin
+Shennekt.com v. 1.0
+7/27/2014
 ======
-Free template with [Twitter Bootstrap](http://getbootstrap.com/) framework.
+Made with the [Twitter Bootstrap](http://getbootstrap.com/) framework.
 
-### Download
-
-[https://github.com/halibegic/merlin/archive/master.zip](https://github.com/halibegic/merlin/archive/master.zip)
 
 ### Credits
  * [jQuery](http://jquery.com/)
@@ -22,7 +20,7 @@ Free template with [Twitter Bootstrap](http://getbootstrap.com/) framework.
 
 ### Copyright and License
 
-Copyright 2014 [Hasan Alibegic](http://www.twitter.com/halibegic)
+Developed by Farrukh Jadoon.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 

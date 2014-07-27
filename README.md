@@ -1,5 +1,5 @@
-Shennekt.com v. 1.0
 7/27/2014
+Shennekt.com v. 1.0
 ======
 Made with the [Twitter Bootstrap](http://getbootstrap.com/) framework.
 
